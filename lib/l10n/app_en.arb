@@ -1,0 +1,66 @@
+{
+    "appTitle": "Great Places",
+    "@appTitle": {
+        "description": "title for app"
+    },
+    "placesListTitle": "Your Places",
+    "@placesListTitle": {
+        "description": "title for list of places"
+    },
+    "placeAddTitle": "Add a New Place",
+    "@placesListTitle": {
+        "description": "title for add a place page"
+    },
+    "userInputsLabel": "user Inputs ...",
+    "@userInputsLabel": {
+        "description": "label for user inputs"
+    },
+    "addPlaceButtonLabel": "Add Place",
+    "@addPlaceButtonLabel": {
+        "description": "label for add place button"
+    },
+    "titleInputLabel": "Title",
+    "@titleInputLabel": {
+        "description": "label for title input field"
+    },
+    "locationInputLabel": "Location",
+    "@locationInputLabel": {
+        "description": "label for location input field"
+    },
+    "imageInputLabel": "Image",
+    "@imageInputLabel": {
+        "description": "label for image input field"
+    },
+    "noImage": "No image",
+    "@noImage": {
+        "description": "text for no image"
+    },
+    "takePicture": "Take a Picture",
+    "@takePicture": {
+        "description": "text for camera button"
+    },
+    "noData": "No data!",
+    "@noData": {
+        "description": "text for no data"
+    },
+    "noLocation": "No location chosen",
+    "@noLocation": {
+        "description": "text for no location"
+    },
+    "currentLocationButton": "Current Location",
+    "@currentLocationButton": {
+        "description": "caption for current location button"
+    },
+    "selectOnMapButton": "Select on Map",
+    "@selectOnMapButton": {
+        "description": "caption for select on map button"
+    },
+    "mapPageTitle": "Your Map",
+    "@mapPageTitle": {
+        "description": "title for map page"
+    },
+    "showMapButton": "View on Map",
+    "@showMapButton": {
+        "description": "caption for show map button"
+    }
+}

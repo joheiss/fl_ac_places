@@ -1,0 +1,18 @@
+{
+    "appTitle": "Gute Plätze",
+    "placesListTitle": "Deine Lieblingsplätze",
+    "placeAddTitle": "Lieblingsplatz hinzufügen",
+    "userInputsLabel": "Benutzereingaben ...",
+    "addPlaceButtonLabel": "Lieblingsplatz hinzufügen",
+    "titleInputLabel": "Bezeichnung",
+    "locationInputLabel": "Standort",
+    "imageInputLabel": "Foto",
+    "noImage": "Kein Foto",
+    "takePicture": "Mache ein Foto",
+    "noData": "Keine Daten!",
+    "noLocation": "Kein Standort ausgewählt!",
+    "currentLocationButton": "Standort",
+    "selectOnMapButton": "Auf Karte auswählen",
+    "mapPageTitle": "Ihre Karte",
+    "showMapButton": "Auf der Karte zeigen"
+}
